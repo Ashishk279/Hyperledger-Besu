@@ -1,0 +1,3 @@
+----Go to BESU folder  
+cd BESU
+npm run besu    ----This start the node 
