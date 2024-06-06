@@ -1,3 +1,6 @@
 {
-  "LockModule#Storage": "0x42699A7612A82f1d9C36148af9C77354759b210b"
+  "LockModule#Storage": "0x42699A7612A82f1d9C36148af9C77354759b210b",
+  "StakingDeployment#BlockTunixCoin": "0x664D6EbAbbD5cf656eD07A509AFfBC81f9615741",
+  "StakingDeployment#Stake": "0x9ab7CA8a88F8e351f9b0eEEA5777929210199295",
+  "StakingBesu#StakeBesu": "0x5EB5888938e3fE7b334b1838B19C1e828c5148aA"
 }
